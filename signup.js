@@ -1,3 +1,4 @@
+// for box movemenet
 const box = document.querySelector('.box');
 const loginLink = document.querySelector('.login-link');
 const RegisterLink = document.querySelector('.register-link');
